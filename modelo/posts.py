@@ -228,3 +228,36 @@ Quer ser avisado quando o Radar for lançado?
 
 #RadarConceitoQ #Anvisa #ComplianceRegulatório #RegTech #ConceitoQ"""),
 ]
+
+POSTS_EXTRA = [
+ dict(id="2026-11-12_11h_riscos", date="2026-11-12T11:00:00", brand="cq", tag="Gerenciamento de Riscos",
+  title="Risco que não está no papel <em>continua existindo.</em>",
+  sub="Identificar, avaliar e priorizar o que realmente ameaça o produto, o paciente e o negócio, antes que vire desvio.",
+  cta="Gerenciamento de Riscos · conceitoq.com",
+  caption="""Não registrar um risco não faz ele desaparecer. Só faz ele aparecer na pior hora: no desvio, na reclamação, na inspeção.
+
+Gerenciar riscos é decidir com método onde colocar energia:
+🔍 identificar os pontos mais vulneráveis do processo
+⚖️ avaliar probabilidade, severidade e detectabilidade
+🎯 priorizar controles proporcionais ao impacto
+🔁 revisar sempre que o processo, o produto ou a norma mudam
+
+Na ConceitoQ, a análise de riscos está na base de tudo o que fazemos — validação de processos, validação de sistemas, SGQ — e também é tema de treinamento in company para a sua equipe.
+
+👉 Quer estruturar o gerenciamento de riscos da sua operação? Fale com a gente pelo link na bio.
+
+#GerenciamentoDeRiscos #AnáliseDeRiscos #GarantiaDaQualidade #BPF #IndústriaFarmacêutica #ConceitoQ"""),
+ dict(id="2026-11-12_18h_podcast", date="2026-11-12T18:00:00", brand="cq", tag="Boas Práticas PodCast",
+  title="Qualidade também <em>se escuta.</em>",
+  sub="Conversas sobre qualidade, regulação e boas práticas no nosso canal no YouTube: Boas Práticas PodCast.",
+  cta="YouTube · Boas Práticas PodCast",
+  caption="""Nem todo aprendizado cabe em um procedimento. Muito dele está nas conversas.
+
+No Boas Práticas PodCast, nosso canal no YouTube, falamos de qualidade, regulação e do dia a dia de quem trabalha em empresas reguladas — com linguagem direta e experiência de quem vive isso por dentro.
+
+🎧 Procure "Boas Práticas PodCast" no YouTube, inscreva-se e ative as notificações.
+
+E conta pra gente nos comentários: qual tema de qualidade ou regulatório você gostaria de ver em um próximo episódio? 👇
+
+#BoasPráticas #Podcast #Qualidade #AssuntosRegulatórios #GarantiaDaQualidade #ConceitoQ"""),
+]

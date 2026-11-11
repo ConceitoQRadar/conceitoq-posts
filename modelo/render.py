@@ -1,7 +1,8 @@
 import base64, sys, pathlib
 from playwright.sync_api import sync_playwright
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from posts import POSTS
+from posts import POSTS, POSTS_EXTRA
+POSTS = POSTS + POSTS_EXTRA
 
 D = pathlib.Path(__file__).parent
 OUT = D / "out"; OUT.mkdir(exist_ok=True)
